@@ -11,6 +11,8 @@ public class StartScene : MonoBehaviour {
 			Application.LoadLevel ("JumpScene");
 		} else if (Input.GetKey (KeyCode.Alpha3)) {
 			Application.LoadLevel ("HighJump");
-		}
+		} else if (Input.GetKey (KeyCode.Alpha4)) {
+			Application.LoadLevel ("WallDieScene");
+		} 
 	}
 }
