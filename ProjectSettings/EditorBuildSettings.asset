@@ -15,3 +15,5 @@ EditorBuildSettings:
     path: Assets/Scenes/JumpScene.unity
   - enabled: 1
     path: Assets/Scenes/WallDieScene.unity
+  - enabled: 1
+    path: Assets/Scenes/DeadScene.unity
