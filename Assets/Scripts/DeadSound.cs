@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class FallSound : MonoBehaviour {
+public class DeadSound : MonoBehaviour {
 	private AudioSource audio;
 	// Use this for initialization
 	void Start () {
